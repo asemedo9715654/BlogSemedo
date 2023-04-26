@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\angelosemedo\\Documents\\WORKSPACE\\c#\\BlogSemedo\\BlogSemedo\\BlogSemedo.csproj",
+      "projectUniqueName": "C:\\Users\\angelosemedo\\Documents\\WORKSPACE\\c#\\BlogSemedo\\BlogSemedo.csproj",
       "projectName": "BlogSemedo",
-      "projectPath": "C:\\Users\\angelosemedo\\Documents\\WORKSPACE\\c#\\BlogSemedo\\BlogSemedo\\BlogSemedo.csproj",
+      "projectPath": "C:\\Users\\angelosemedo\\Documents\\WORKSPACE\\c#\\BlogSemedo\\BlogSemedo.csproj",
       "packagesPath": "C:\\Users\\angelosemedo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\angelosemedo\\Documents\\WORKSPACE\\c#\\BlogSemedo\\BlogSemedo\\obj\\",
+      "outputPath": "C:\\Users\\angelosemedo\\Documents\\WORKSPACE\\c#\\BlogSemedo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

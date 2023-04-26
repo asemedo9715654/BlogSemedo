@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Artigo>
+	<DataArtigo>26-04-2023</DataArtigo>
+	<Autor>Ângelo Semedo</Autor>
+	<Titulo>5 .NET blogs for C# developers to follow in 2019</Titulo>
+	<Imagem>https://miro.medium.com/v2/resize:fit:720/format:webp/1*Cbj_BcK5ePD4Mc4TK4sfvQ.jpeg</Imagem>
+	<Resumo>Now, more than ever, is the best time to be a C# developer. The .NET ecosystem is blooming and Microsoft is going in the right direction by focusing on developers (developers! developers!).</Resumo>
+	<CorpoArtigo>
+		.NET is getting bigger and gaining more and more traction. With the next release it is going to bring C# to more platforms.
+
+		Microsoft is going to ship Windows with full Linux kernel in the WSL 2 which makes Windows the go to platform for all the various web developers. And it gives us powerful tools to make our jobs easier.
+
+		Now, more than ever, is the best time to be a C# developer. The .NET ecosystem is blooming and Microsoft is going in the right direction by focusing on developers (developers! developers!).
+
+		It is hard to keep up with all the changes so let’s look at a few blogs that are worth following in 2019. I’m not going to talk about the golden .NET icons like Scott Hanselman, Jon Skeet, or Eric Lippert. Instead we’ll look at the less known writers that are producing amazing content.
+
+	</CorpoArtigo>
+</Artigo>
